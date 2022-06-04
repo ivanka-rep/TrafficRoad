@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: abf7afd0e964fbe4c9742dd87b7d36c6, type: 3}
+  m_Name: SettingsInstaller
+  m_EditorClassIdentifier: 
+  m_prefabs:
+    turningVehicles:
+    - {fileID: 5640103403322549653, guid: f7758b1a81d39504698b1a67d0da1dfd, type: 3}
+    - {fileID: 8180987439713315516, guid: aba0d8de0f3a71348ae4b9a0b48a00aa, type: 3}
+    - {fileID: 5867607550135787027, guid: 4b9a14682fe86894a9f71bbc7c3700df, type: 3}
+    - {fileID: 3800966966080924768, guid: a8a22ec19ae473145819ca1e2056f5be, type: 3}
+    - {fileID: 6612762507049402727, guid: 4ad5da1296a1c864b97bcbc70cd486e4, type: 3}
+    - {fileID: 6041280243667880681, guid: 6943d9f3325968e4a9987065bee03287, type: 3}
+  m_trafficSettings:
+    speed: 150
+    timeBetweenSpawnsMin: 1
+    timeBetweenSpawnsMax: 1.35
+    timeForEmpty: 1
+    startCarsOnRouteCount: 10
+  m_pedestrianSettings:
+    pedestriansOnStart: 5
+    speed: 50
+    timeBetweenSpawnsMin: 4
+    timeBetweenSpawnsMax: 8
