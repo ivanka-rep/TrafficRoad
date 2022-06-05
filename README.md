@@ -4,4 +4,4 @@ If you want to download the game, you can get it through the **[link](https://dr
 
 Also you can watch the short trailer:  
 
-[![video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![video](https://img.youtube.com/vi/wpuOIJmQIPY/0.jpg)](https://www.youtube.com/watch?v=wpuOIJmQIPY)
